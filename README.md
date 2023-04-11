@@ -34,7 +34,7 @@
 //promise.resolve
 ![image](https://user-images.githubusercontent.com/43552295/231138869-e130320b-e0c4-4200-a2e0-64da30a2b078.png)
 
-//promise.all - > Wait for all promises to be fulfilled or any promise to be rejected
+//promise.all - > Wait for all promises to be resolved or any promise to be rejected
 ![image](https://user-images.githubusercontent.com/43552295/231155035-d0ec5df8-0fa4-4eef-b589-92fa2f6d73e7.png)
 
 
