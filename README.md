@@ -37,5 +37,6 @@
 //promise.all - > Wait for all promises to be resolved or any promise to be rejected
 ![image](https://user-images.githubusercontent.com/43552295/231157115-7c600a34-23d2-4920-ab4d-f1f098b6f9a7.png)
 
+![image](https://user-images.githubusercontent.com/43552295/231157507-c7163441-b578-4c92-9c06-6e0848111dfd.png)
 
 
