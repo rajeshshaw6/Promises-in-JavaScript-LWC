@@ -56,5 +56,7 @@ Below Image is returning error car 3 has crashed because it is the first promise
 Below image is returning error car 3 has crashed and not Car 1 has completed the race  even the time is set to zero for that promise, because in the rejected promise setTimeout is not given and preference is given to the promise without setTimeOut.
 ![image](https://user-images.githubusercontent.com/43552295/231182681-ba396ad2-5edb-4305-81e0-323c09788331.png)
 
+Below image is returning car 1 has completed the race even though setTimeout for promise2 is also 0. Because the promise for ar 1 has completed the race is before promise2 and gets executed earlier than promise2.
+![image](https://user-images.githubusercontent.com/43552295/231187049-2ca8bb66-08ff-411b-bc5a-2cc1a2cbb480.png)
 
 
