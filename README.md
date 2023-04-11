@@ -42,4 +42,11 @@
 //console.time(),console.timeLog(),console.timeEnd()   -->>   It will return the maximum time taken of all the promises. In below example maximum time taken by promise is 5 seconds
 ![image](https://user-images.githubusercontent.com/43552295/231175112-72f592a2-d5ce-41b8-a739-b75ee0d5a71e.png)
 
+//promise.any -> returns the promise which is fulfilled first i.e it returns only one promise out of all promises which is completed first
+![image](https://user-images.githubusercontent.com/43552295/231178442-ddededf6-410a-4f93-8c6e-b5610bb1821f.png)
+
+//In the below image it is returning not retuning message of reject because promise.any returns promise which is first resolved 
+![image](https://user-images.githubusercontent.com/43552295/231178738-86ea6e8c-c79b-4dcc-87ae-b1c475589129.png)
+
+
 
