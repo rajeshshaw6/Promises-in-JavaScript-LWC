@@ -30,3 +30,7 @@
 ![image](https://user-images.githubusercontent.com/43552295/231133293-d9ca4bf7-dcbb-4587-8d09-634453a802c9.png)
 
 ![image](https://user-images.githubusercontent.com/43552295/231133445-20d08e95-62cd-408e-a408-f2dbb6cf2e0e.png)
+
+//promise.resolve
+![image](https://user-images.githubusercontent.com/43552295/231138869-e130320b-e0c4-4200-a2e0-64da30a2b078.png)
+
