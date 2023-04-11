@@ -39,7 +39,7 @@
 
 ![image](https://user-images.githubusercontent.com/43552295/231157507-c7163441-b578-4c92-9c06-6e0848111dfd.png)
 
-//console.time(),console.timeLog(),console.timeEnd()   -->>   It will return the maximum time taken of all the promises
+//console.time(),console.timeLog(),console.timeEnd()   -->>   It will return the maximum time taken of all the promises. In below example maximum time taken by promise is 5 seconds
 ![image](https://user-images.githubusercontent.com/43552295/231175112-72f592a2-d5ce-41b8-a739-b75ee0d5a71e.png)
 
 
