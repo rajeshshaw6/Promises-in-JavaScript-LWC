@@ -23,4 +23,5 @@
 
 ![image](https://user-images.githubusercontent.com/43552295/231128681-148a4ace-2342-4a9d-8cd1-53f3b1a281e5.png)
 
+//Finally will get executed every time whether the promise is success or failure.
 ![image](https://user-images.githubusercontent.com/43552295/231128719-8c50575e-ea90-4898-9be4-e698b4bbf67a.png)
