@@ -59,4 +59,7 @@ Below image is returning error car 3 has crashed and not Car 1 has completed the
 Below image is returning car 1 has completed the race even though setTimeout for promise2 is also 0. Because the promise for ar 1 has completed the race is before promise2 and gets executed earlier than promise2.
 ![image](https://user-images.githubusercontent.com/43552295/231187049-2ca8bb66-08ff-411b-bc5a-2cc1a2cbb480.png)
 
+//promise.allSettled ->> gets executed after every promise goes to settled state. Promises in reject or fulfilled state will always go to settled state in the end.
+In below image all promises will go to settled state in the end, so it is printing all the messages.
+![image](https://user-images.githubusercontent.com/43552295/231194317-b436e7e0-ecba-423a-b31e-758dd7f0b67a.png)
 
