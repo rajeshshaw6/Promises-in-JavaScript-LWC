@@ -48,5 +48,13 @@
 //In the below image it is returning not retuning message of reject because promise.any returns promise which is first resolved 
 ![image](https://user-images.githubusercontent.com/43552295/231178738-86ea6e8c-c79b-4dcc-87ae-b1c475589129.png)
 
+//promise.race -> returns any of the promise which is fulfilled or rejected first
+
+Below Image is returning error car 3 has crashed because it is the first promise which got executed
+![image](https://user-images.githubusercontent.com/43552295/231181968-97bb8ec8-cf15-4974-a569-455c20625f0f.png)
+
+Below image is returning error car 3 has crashed and not Car 1 has completed the race even the time is set to zero for that promise, because in the rejected promise setTimeout is not given and preference is given to the promise without setTimeOut.
+![image](https://user-images.githubusercontent.com/43552295/231182681-ba396ad2-5edb-4305-81e0-323c09788331.png)
+
 
 
