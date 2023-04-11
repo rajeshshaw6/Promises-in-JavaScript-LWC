@@ -25,3 +25,8 @@
 
 //Finally will get executed every time whether the promise is success or failure.
 ![image](https://user-images.githubusercontent.com/43552295/231128719-8c50575e-ea90-4898-9be4-e698b4bbf67a.png)
+
+//promise.reject
+![image](https://user-images.githubusercontent.com/43552295/231133293-d9ca4bf7-dcbb-4587-8d09-634453a802c9.png)
+
+![image](https://user-images.githubusercontent.com/43552295/231133445-20d08e95-62cd-408e-a408-f2dbb6cf2e0e.png)
