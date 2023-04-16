@@ -64,6 +64,8 @@ In below image all promises will go to settled state in the end, so it is printi
 ![image](https://user-images.githubusercontent.com/43552295/231194317-b436e7e0-ecba-423a-b31e-758dd7f0b67a.png)
 
 //Chaining in Promises
+
+
 ![image](https://user-images.githubusercontent.com/43552295/232278143-ac61d314-42c7-4c3e-864c-6a5da2c376b0.png)
 
 
